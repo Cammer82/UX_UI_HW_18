@@ -1,0 +1,105 @@
+.nav-link,
+.nav-bar {
+    color: white;
+}
+body {
+    background-color: #fc9fdc;
+ }
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    background-color: plum;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 1px 1px 1px gray,
+                2px 2px 1px gray;
+}
+.nav-link {
+    display: inline-flex;
+    height: 40px;
+    align-items: center;
+    padding: 0 5px;
+}
+.introline {
+    text-align: center;
+    font-size: 34px;
+    padding-top: 15%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 1px 1px 1px gray,
+                  2px 2px 1px gray;
+}
+.portfoliomain {
+    margin-top: 20%;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.FCCLogo {
+    display: flex;
+    text-align: left;
+}
+
+.FCClabel {
+    text-align: right;
+    color:purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+}
+.FCCBody {
+    text-align: right;
+    color:purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+.Mindfullogo {
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: right;
+}
+.Mindfullable {
+    text-align: left;
+    color:purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.MindfulBody {
+    color:purple;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+.WGEFlogo {
+    display: flex;
+    text-align: left;
+}
+.WGEFLable {
+    color:purple;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.WGEFBody {
+    color:purple;
+    text-align:right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    margin-bottom: 20%;
+}
+.footer {
+    text-align: center;
+    background-color: plum;
+}
+.contactbuttons {
+  color: white;
+  padding: 16px 32px;
+  display: inline-block;
+  align-items: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-shadow: 1px 1px 1px gray,
+                2px 2px 1px gray;
+            }
