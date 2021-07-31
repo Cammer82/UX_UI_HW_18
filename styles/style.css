@@ -54,7 +54,7 @@ body {
 .FCClabel {
     text-align: left;
     color:pink;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1.5rem;
 }
 .FCCBody {
@@ -72,9 +72,8 @@ body {
 .Mindfullable {
     text-align: left;
     color:pink;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1.5rem;
-    font-weight: bold;
 }
 .MindfulBody {
     color:pink;
@@ -90,7 +89,7 @@ body {
 .WGEFLable {
     color:pink;
     text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
 }
@@ -102,7 +101,7 @@ body {
     margin-bottom: 20%;
 }
 .footer {
-    margin-top: 75%;;
+    margin-top: 50%;
     text-align: center;
     background-color: plum;
 }
@@ -156,11 +155,22 @@ h5 {
     }
 }
 .aboutMe {
-    diplay: flex;
-    margin-top: 30%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
     color:pink;
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 12px;
+    text-align:inherit;
+}
+.myPhoto {
+    display: flex;
+    padding-left: 30%;
+    align-items: center;
+    margin-top: 10%;
+    justify-content: space-between;
 }
 .myStory {
-    margin: 25%;
-    align-items: center;
+    margin-top: 30px;
 }

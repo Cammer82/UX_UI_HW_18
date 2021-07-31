@@ -6,3 +6,7 @@ Adding responsive code
 Making portolio mobile friendly
 
 Trying to add an additional page 
+
+added About me page
+
+added image to about me page
