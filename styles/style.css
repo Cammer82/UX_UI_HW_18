@@ -3,7 +3,6 @@ html{
       height: 100%;
 }
 
-
 .nav-link,
 .nav-bar {
     color: white;
@@ -162,16 +161,23 @@ h5 {
     margin-left: 25%;
     margin-right: 25%;
     font-size: 12px;
-    text-align:inherit;
 }
-.myPhoto {
+
+.aboutMePhoto {
+    display: flex;
+    flex-direction: column;
     align-items: center;
     margin-top: 5%;
-    justify-content: space-between;
+    margin-left: 40%;
 }
+
 .myStory {
-    margin-top: 30px;
+    margin-top: 50px;
 }
+
 .myResume {
+    flex-direction: column;
     font-size: 25px;
+    color:cornflowerblue;
+    align-items: baseline;
 }
