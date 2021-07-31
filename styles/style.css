@@ -10,7 +10,7 @@ html{
 }
 
 body {
-    background-color: #fc9fdc;
+    background-color: #1b0e16;
 }
 
 .nav-bar {
@@ -34,7 +34,7 @@ body {
     text-align: center;
     font-size: 34px;
     padding-top: 15%;
-    color: white;
+    color:pink;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-shadow: 1px 1px 1px gray,
                   2px 2px 1px gray;
@@ -53,13 +53,13 @@ body {
 
 .FCClabel {
     text-align: left;
-    color:purple;
+    color:pink;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.5rem;
 }
 .FCCBody {
     text-align: left;
-    color:purple;
+    color:pink;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1rem;
 }
@@ -71,13 +71,13 @@ body {
 }
 .Mindfullable {
     text-align: left;
-    color:purple;
+    color:pink;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
 }
 .MindfulBody {
-    color:purple;
+    color:pink;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1rem;
@@ -88,14 +88,14 @@ body {
     margin-bottom: 25px;
 }
 .WGEFLable {
-    color:purple;
+    color:pink;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
 }
 .WGEFBody {
-    color:purple;
+    color:pink;
     text-align:left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1rem;
@@ -154,4 +154,13 @@ h5 {
     body {
         background-color: black;
     }
+}
+.aboutMe {
+    diplay: flex;
+    margin-top: 30%;
+    color:pink;
+}
+.myStory {
+    margin: 25%;
+    align-items: center;
 }
